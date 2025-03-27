@@ -1,16 +1,16 @@
 // config.js
 const XlesySet = {
-    owner: ['6283877636168'],
-    packname: 'Xlesy',
+    owner: ['6285878878149'],
+    packname: 'ʀɪᴢxᴍᴀɪ',
     author: 'Gxyenn',
-    botname: 'XlesyBot',
+    botname: 'Riz 𝘽𝙤𝙩✓',
     listprefix: ['.'],
     listv: ['❀','✿','⚘','々'],
     number_bot: "", // Kalo pake panel bisa masukin nomor di sini, jika belum ambil session. Format: '628xx'
-    dana: ['083877636168'],
-    gopay: ['083877636168'],
+    dana: ['kosong'],
+    gopay: ['kosong'],
     ovo: ['kosong'],
-    pulsa: ['083877636168'],
+    pulsa: ['6288980060388'],
     qris: ['kosong'],
 };
 
