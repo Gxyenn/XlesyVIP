@@ -27,9 +27,9 @@ This script is created by [Gxyenn](https://github.com/Gxyenn) using Node.js and 
 | Build Pack | LINK |
 |--------|--------|
 | **NODEJS** | heroku/nodejs |
-| **FFMPEG** | [here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **WEBP** | [here](https://github.com/clhuang/heroku-buildpack-webp-binaries.git) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+| **FFMPEG** | [here](https://github.com/hikma8272726/XLESYVIP.git) |
+| **WEBP** | [here](https://github.com/hikma8272726/XLESYVIP.git) |
+| **IMAGEMAGICK** | [here](https://github.com/hikma8272726/XLESYVIP.git) |
 
 ---
 ## For Windows/VPS/RDP User
@@ -39,7 +39,8 @@ This script is created by [Gxyenn](https://github.com/Gxyenn) using Node.js and 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Gxyenn/XLESYVIP
+git clone
+https://github.com/hikma8272726/XLESYVIP.git
 cd XLESYVIP
 npm install
 npm update
@@ -52,7 +53,8 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/Gxyenn/XLESYVIP
+git clone
+https://github.com/hikma8272726/XLESYVIP.git
 cd XLESYVIP
 npm install
 ```
@@ -66,7 +68,8 @@ pkg install ffmpeg
 pkg install imagemagick
 pkg install nodejs
 pkg install yarn
-git clone https://github.com/Gxyenn/XLESYVIP.git
+git clone
+https://github.com/hikma8272726/XLESYVIP.git
 termux-setup-storage
 cd XLESYVIPENC 
 yarn
